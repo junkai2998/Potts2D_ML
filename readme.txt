@@ -1,4 +1,5 @@
 ############# q-states Potts model via monte-carlo simulation #############
+there are slight modification, which we only train on extreme temperatures
 
 (A) Components:
 1. 00sampling.ipynb: contain the core codes to run simulation and generate data. Includes data visualization for run data as well.
